@@ -29,6 +29,8 @@ DB_USER=your_database_user
 DB_PASS=your_database_password
 DB_NAME=your_database_name
 
+Before starting the application you must create database. Tables creating autonaticly
+
 Running the Application
 
 Start the server:
